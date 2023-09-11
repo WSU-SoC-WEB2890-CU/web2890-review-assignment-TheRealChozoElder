@@ -1,1 +1,10 @@
-TODO: List here all the changes you made to given template to adapt it to your needs
+1. Changed images of reviewers to something silly. 
+2. Changed text of "Get in touch" to "Take a look" Getting in touch will not message me for now.
+3. Removed the instagram icon and site as I am not about that life.
+4. Icon used in the top corner changed because why not.
+5. Changed waves as well.
+6. Linked social media links to home sites.
+7. Changed steps so that it references meme about profit.
+8. Changed from trusted companies to NOT curently trusted.
+9. Added icon that leads to my favorite podcast, but made it a mystery icon.
+10. Changed all links to open in a new tab because it annoys me to no end if it does not.

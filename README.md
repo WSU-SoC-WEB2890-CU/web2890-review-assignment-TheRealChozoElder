@@ -1,5 +1,5 @@
 # A Bootstrap 5 - based portfolio page
-A Bootstrap 5 portfolio landing page adapted from this youtube course (https://www.youtube.com/playlist?list=PLb6bnKCHlCwmlv01_eHzVfQHhThBAXgW5). This project is powered by Vite (french for fast and pronounced like 'veet').
+A Bootstrap 5 portfolio landing page adapted from this youtube course (https://www.youtube.com/playlist?list=PLb6bnKCHlCwmlv01_eHzVfQHhThBAXgW5). This project is powered by Vite (french for fast and pronounced like 'veet'). 
 
 ## Instructions
 After you clone (download) this repository from GitHub, run the following command to install the required NPM packages. You only need to do this once.
